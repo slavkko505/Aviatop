@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneBoostraper.unity
+    guid: 6de4d3d4179672e4ca6098f504d83f3b
+  - enabled: 1
+    path: Assets/Scenes/MainScreen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Above the Clouds.unity
+    guid: 68b2eeedb680d534cb4af57d432ca276
+  - enabled: 1
+    path: Assets/Scenes/Cloud Pilots.unity
+    guid: d64704b6f907a7f429b43bead5fb23a0
+  - enabled: 1
+    path: Assets/Scenes/Turbo Wings.unity
+    guid: 0243eb6513e36d041a7dc7dea55be07d
+  - enabled: 1
+    path: Assets/Scenes/Winged Riddles.unity
+    guid: ac543d282ea771147a618474b71c717e
+  m_configObjects: {}
